@@ -4,4 +4,4 @@
 
 Developed visualizations as well as models to link police misconduct to various metrics such as rank of officer and race of defendant
 
-Additionally created model to analyze a given police officer's donations to the city to police misconduct cases as well as frequency of innocent verdict in these cases.
+Created model to analyze a given police officer's donations to the city to police misconduct cases as well as frequency of innocent verdict in these cases
