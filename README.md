@@ -1,6 +1,6 @@
 # Semester long project for Data Science (CS 506)
 
-## Led team of 5 other students on project for Mijente, a nonprofit dedicated to Latinx and Chicanx rights
+## Led team of 5 students on project for Mijente, a nonprofit dedicated to Latinx and Chicanx rights
 
 Developed visualizations as well as models to link police misconduct to various metrics such as rank of officer and race of defendant
 
